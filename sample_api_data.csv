@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-01T00:26:18.588Z,37.7848,-114.3071,6.1,1,ml,6,110.38,0.481,0.087,nn,nn00871774,2024-01-17T23:17:45.102Z,"7 km E of Panaca, Nevada",earthquake,,28,0.43,5,reviewed,nn,nn
+2024-01-01T00:22:54.220Z,38.803833,-122.7708359,1.79,0.51,md,8,108,0.009263,0.01,nc,nc73983576,2024-01-01T01:59:11.022Z,"3 km NNW of The Geysers, CA",earthquake,0.41,1.13,0.27,9,automatic,nc,nc
+2024-01-01T00:14:23.010Z,38.8361664,-122.8069992,1.64,0.77,md,11,58,0.01298,0.01,nc,nc73983571,2024-01-01T01:33:10.873Z,"7 km WNW of Cobb, CA",earthquake,0.3,1.15,0.32,11,automatic,nc,nc
+2024-01-01T00:13:39.858Z,62.962,-150.4771,103.6,1.5,ml,,,,0.56,ak,ak0241nm7x6,2024-01-21T02:55:59.155Z,"53 km NNE of Petersville, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-01-01T00:03:15.140Z,18.4086666666667,-66.427,105.15,3.22,md,11,190,0.3187,0.2,pr,pr71435948,2024-01-01T00:24:13.390Z,"2 km SSE of Coto Norte, Puerto Rico",earthquake,1.82,1,0.120699023975857,4,reviewed,pr,pr
+2024-01-01T00:00:20.892Z,31.624,-104.484,7.0313,1.7,ml,15,131,0,0.1,tx,tx2024aaaa,2024-01-02T17:00:39.132Z,"62 km S of Whites City, New Mexico",earthquake,2.424408546,0.8887354899,0.1,13,reviewed,tx,tx
