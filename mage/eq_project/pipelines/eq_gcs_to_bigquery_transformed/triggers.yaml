@@ -1,0 +1,13 @@
+triggers:
+- envs: []
+  last_enabled_at: null
+  name: second_pipeline
+  pipeline_uuid: eq_gcs_to_bigquery_transformed
+  schedule_interval: '@daily'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-04-15 08:00:00
+  status: inactive
+  variables:
+    start_date: '2020-01-01'
